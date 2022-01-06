@@ -1,6 +1,6 @@
 👋 Hi, I’m @hylin0!
 
-👀 About Me!:
+👀 About Me!
   - Currently 1st Year University Student @ Staffordshire University
   - I am from Leeds
   - Love games and art (absolutely hate painting!)
