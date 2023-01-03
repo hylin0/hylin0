@@ -3,18 +3,20 @@
 👀 About Me!
   - Currently 2nd Year University Student @ Staffordshire University
   - I am from Leeds
-  - Love games and art (absolutely hate painting!)
+  - Love games and art
   - 🌱 Currently learning: 
       - BSci (Hons) Games Design and Programming
-      - Potential extra-curricular activities to be posted...
+      - Committed towards Game Jams which included a submission at the Ludem Dare 50 Jam along with a failed attempt at the Game Off 2022
   - 📫 How to reach me: 
       - l011139l@student.staffs.ac.uk (Student Email)
       - haoyu.lin03@gmail.com (Personal)
    
 - 🎮 Favourite Games:
     - League of Legends
-    - Rainbow Six Siege
-    - Halo (ALL OF THEM)
+    - Cyberpunk
+    - Halo
+    - Elden 
+    - Elden Ring
     - and many more...
 
 <!---
