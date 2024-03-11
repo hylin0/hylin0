@@ -13,10 +13,10 @@
    
 - 🎮 Favourite Games:
     - League of Legends
-    - Cyberpunk
+    - Cyberpunk 2077
     - Halo
-    - Elden 
-    - Elden Ring
+    - Valorant 
+    - Kingdom Come Deliverance
     - and many more...
 
 <!---
