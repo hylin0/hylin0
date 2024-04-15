@@ -12,12 +12,14 @@
       - haoyu.lin03@gmail.com (Personal)
    
 - 🎮 Favourite Games:
-    - League of Legends
-    - Cyberpunk 2077
     - Halo
-    - Valorant 
+    - Cyberpunk 2077
     - Kingdom Come Deliverance
-    - and many more...
+    - League of Legends
+    - Rainbox Six Siege
+    and MORE!
+
+CURRENTLY PLAYING: Fallout 76, Fallout 4 + Rainbow Six Siege
 
 <!---
 hylin0/hylin0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
