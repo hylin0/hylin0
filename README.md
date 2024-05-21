@@ -17,9 +17,10 @@
     - Kingdom Come Deliverance
     - League of Legends
     - Rainbox Six Siege
+    - Elden Ring
     and MORE!
 
-CURRENTLY PLAYING: Fallout 76, Fallout 4 + Rainbow Six Siege
+CURRENTLY PLAYING: Fallout 76, Elden Ring + Rainbow Six Siege
 
 <!---
 hylin0/hylin0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
