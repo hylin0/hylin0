@@ -1,26 +1,13 @@
-👋 Hi, I’m @hylin0!
+👋 Hi, I’m Hao Lin (@hylin0)!
 
 👀 About Me!
-  - Currently 3rd Year University Student @ Staffordshire University
-  - I am from Leeds
-  - Love games and art
+  - Graduate with BSci (with Hons) in Games Design and Programming @ Staffordshire University
+  - Born and raised in Leeds
   - 🌱 Currently learning: 
-      - BSci (Hons) Games Design and Programming
+      - W3School in coding languages
       - Committed towards varied Game Jams
   - 📫 How to reach me: 
-      - l011139l@student.staffs.ac.uk (Student Email)
-      - haoyu.lin03@gmail.com (Personal)
-   
-- 🎮 Favourite Games:
-    - Halo
-    - Cyberpunk 2077
-    - Kingdom Come Deliverance
-    - League of Legends
-    - Rainbox Six Siege
-    - Elden Ring
-    and MORE!
-
-CURRENTLY PLAYING: Fallout 76, Elden Ring + Rainbow Six Siege
+      - haoyu.lin03@gmail.com 
 
 <!---
 hylin0/hylin0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
