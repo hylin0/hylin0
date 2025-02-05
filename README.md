@@ -1,6 +1,6 @@
 # Hi there, I'm Hao Lin (hylin0) 👋
 
-Welcome to my GitHub profile!
+WELCOME! A quick overview of myself and what I am currently doing at the moment.
 
 ## About Me 👀
 A Graduate at the University of Staffordshire University for BSci (with Hons) in Games Design and Programming. Born and raised in Leeds, Games and Programming were a key hobby and interest in my life. My hopes and aspirations are to contribute and make games and projects that people can enjoy!
