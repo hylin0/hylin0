@@ -1,7 +1,7 @@
 👋 Hi, I’m Hao Lin (@hylin0)!
 
 👀 About Me!
-  - Graduate with BSci (with Hons) in Games Design and Programming @ Staffordshire University
+  - Graduate with BSci (with Hons) in Games Design and Programming @ University of Staffordshire
   - Born and raised in Leeds
   - 🌱 Currently learning: 
       - W3School in coding languages
