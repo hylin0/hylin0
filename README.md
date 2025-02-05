@@ -8,7 +8,7 @@ A Graduate at the University of Staffordshire University for BSci (with Hons) in
 - 🔭 Working on a Tranzfuser Project so stay tuned!
 - 🌱 Currently learning about JavaScript on W3School
 - 👯 Currently busy with Tranzfuser but open to do Game Jams
-- 📫 How to reach me: [Email](mailto:haoyu.lin03@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/hao-lin-5706a7222/])
+- 📫 How to reach me: [Email](mailto:haoyu.lin03@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hao-lin-5706a7222/)
 - ⚡ Fun Fact: I love history and love to learn about ancient civilisations and medieval Europe
 
 ## Technologies & Tools
@@ -24,7 +24,7 @@ Here are some of the technologies and tools I work with:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hylin0&layout=compact&theme=radical)
 
 ## Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/hao-lin-5706a7222/])
+- [LinkedIn](https://www.linkedin.com/in/hao-lin-5706a7222/)
 - [Website](https://sites.google.com/view/hylingames/home)
 
 Thanks for visiting my profile! Hope you can explore my projects and comment any constructive feedback! 🌟
