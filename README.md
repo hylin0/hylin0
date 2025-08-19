@@ -3,11 +3,11 @@
 WELCOME! A quick overview of myself and what I am currently doing at the moment.
 
 ## About Me 👀
-A Graduate at the University of Staffordshire University for BSci (with Hons) in Games Design and Programming. Born and raised in Leeds, Games and Programming were a key hobby and interest in my life. My hopes and aspirations are to contribute and make games and projects that people can enjoy!
+A Graduate at the University of Staffordshire for BSci (with Hons) in Games Design and Programming. Born and raised in Leeds, Games and Programming were a key hobby and interest in my life. My hopes and aspirations are to contribute and make games and projects that people can enjoy!
 
 - 🔭 Working on a Souls-like and Horror game so stay tuned!
 - 🌱 Currently learning about JavaScript on W3School
-- 👯 Currently busy with Tranzfuser but open to do Game Jams
+- 👯 Currently busy with my internship with the University of Staffordshire (as a Graduate Project Officer)
 - 📫 How to reach me: [Email](mailto:haoyu.lin03@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hao-lin-5706a7222/)
 - ⚡ Fun Fact: I love history and love to learn about ancient civilisations and medieval Europe
 
