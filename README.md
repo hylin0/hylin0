@@ -25,7 +25,7 @@ Here are some of the technologies and tools I work with:
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/hao-lin-5706a7222/)
-- [Website](https://sites.google.com/view/hylingames/home)
+- [Portfolio](https://sites.google.com/view/hylin-games/home)
 
 Thanks for visiting my profile! Hope you can explore my projects and comment any constructive feedback! 🌟
 <!---
